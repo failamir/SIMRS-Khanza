@@ -1,0 +1,4 @@
+/build
+/lib
+/simrs-tauri/node_modules
+/simrs-tauri/src-tauri/target

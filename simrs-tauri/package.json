@@ -1,0 +1,20 @@
+{
+  "name": "simrs-khanza",
+  "version": "1.0.0",
+  "description": "Sistem Informasi Manajemen Rumah Sakit - Khanza (Tauri Version)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0",
+    "vite-plugin-solid": "^2.8.0"
+  }
+}
