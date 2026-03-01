@@ -1,0 +1,6 @@
+/build
+/lib
+/simrs-tauri/node_modules
+/simrs-tauri/src-tauri/target/debug
+simrs-tauri/src-tauri/target/.rustc_info.json
+simrs-tauri/src-tauri/target/CACHEDIR.TAG
